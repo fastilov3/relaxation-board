@@ -1,3 +1,3 @@
 # Board for relax ;)
 ### Deploy: https://fastilov3-relaxation-board.netlify.app/
-### Preview: ![image](https://user-images.githubusercontent.com/50419270/139916143-01a02220-c044-4f83-8d38-98c6f1ca0725.png)
+### Preview: ![image](https://user-images.githubusercontent.com/50419270/139916359-4cd2c7e1-adc4-4281-8457-d4b58e3c20a0.png)
