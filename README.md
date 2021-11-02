@@ -1,1 +1,1 @@
-# relaxation-board
+# Board for relax ;)
